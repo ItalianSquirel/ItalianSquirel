@@ -23,6 +23,8 @@
 
 <img align="left" alt="Rpi" width="26px" src="https://github.com/ItalianSquirel/ItalianSquirel/raw/main/raspberry-pi.png" />
 
+<img align="left" alt="NodeRED" width="26px" src="https://github.com/ItalianSquirel/ItalianSquirel/raw/main/B80E510F-0190-460B-AAB6-4073CD55CD7A.png" />
+
 <img align="left" alt="Fusion360" width="26px" src="https://github.com/ItalianSquirel/ItalianSquirel/raw/main/fusion360-5d76c87271.png" />
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
