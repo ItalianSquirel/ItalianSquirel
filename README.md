@@ -18,8 +18,8 @@ Given my extensive history with debate in high school I am very good at ensuring
 
 ---
 
-[![Website](https://img.shields.io/website?down_message=Down&label=italiansquirel.com&style=for-the-badge&up_message=Up&url=https%3A%2F%2Fitaliansquirel.com%2F)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/italiansquirel?color=%09%231DA1F2&style=for-the-badge)]((https://twitter.com/italiansquirel))
+[![Website](https://img.shields.io/website?down_message=Down&label=italiansquirel.com&style=for-the-badge&up_message=Up&url=https%3A%2F%2Fitaliansquirel.com%2F)](https://italiansquirel.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/italiansquirel?color=%09%231DA1F2&style=for-the-badge)](https://twitter.com/italiansquirel)
 
 ## I'm a Student, Developer, and a Future Engineer!
 
