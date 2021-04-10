@@ -4,7 +4,9 @@
 [![Website](https://img.shields.io/website?down_message=Down&label=italiansquirel.com&style=for-the-badge&up_message=Up&url=https%3A%2F%2Fitaliansquirel.com%2F)](https://italiansquirel.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/italiansquirel?color=%09%231DA1F2&style=for-the-badge)](https://twitter.com/italiansquirel)
 <img align="right" alt="qr" width="150px" src="https://github.com/ItalianSquirel/ItalianSquirel/blob/main/ItaliansQUIREL.png" />
-
+<br />
+<br />
+<br />
 ---
 
 <img align="right" alt="kirb" width="150px" src="https://media.tenor.com/images/e201f39e67bec6139d6394d7c3925dd3/tenor.gif" />
