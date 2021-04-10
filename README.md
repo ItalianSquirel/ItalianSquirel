@@ -23,7 +23,7 @@ Given my extensive history with debate in high school I am very good at ensuring
 
 ## I'm a Student, Developer, and a Future Engineer!
 
-<img align="right" alt="pac" width="150px" src="https://64.media.tumblr.com/746f62e3c4f1c00d79a059eb2d334175/tumblr_mz4uhyqNRC1qegdapo1_500.gif" />
+<img align="right" alt="pac" width="180px" src="https://64.media.tumblr.com/746f62e3c4f1c00d79a059eb2d334175/tumblr_mz4uhyqNRC1qegdapo1_500.gif" />
 
 - 🦀 I just launched my first website: [italiansquirel.com](italiansquirel.com)!
 - 🍳 I’m currently learning everything
