@@ -53,7 +53,7 @@ Given my extensive history with debate in high school I am very good at ensuring
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://icon-library.com/images/github-icon-white/github-icon-white-6.jpg" />
+<img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
 
 <img align="left" alt="Linux" width="26px" src="https://github.com/ItalianSquirel/ItalianSquirel/raw/main/LINUX.png" />
 
