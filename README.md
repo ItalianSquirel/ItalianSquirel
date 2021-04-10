@@ -16,7 +16,9 @@ Given my extensive history with debate in high school I am very good at ensuring
 [![Twitter Follow](https://img.shields.io/twitter/follow/italiansquirel?color=%09%231DA1F2&style=for-the-badge)]((https://twitter.com/italiansquirel))
 
 ## I'm a Student, Developer, and a Future Engineer!
+
 <img align="right" alt="pac" width="150px" src="https://64.media.tumblr.com/746f62e3c4f1c00d79a059eb2d334175/tumblr_mz4uhyqNRC1qegdapo1_500.gif" />
+
 - 🦀 I just launched my first website: [italiansquirel.com](italiansquirel.com)!
 - 🍳 I’m currently learning everything
 - 🌋 I’m looking to collaborate with other content creators
