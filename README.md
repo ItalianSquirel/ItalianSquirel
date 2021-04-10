@@ -12,7 +12,8 @@ I am a college student studying Computer Engineering, I spend most of my free ti
 Given my extensive history with debate in high school I am very good at ensuring clarity, engagement, and delivery with all that I write, yeah I might have a typo here and there but who doesn’t. This makes me very useful for writing grants, documentation, and other miscellaneous writing projects anyone might have for me.
 
 <br />
-<br />
+
+
 ---
 
 [![Website](https://img.shields.io/website?down_message=Down&label=italiansquirel.com&style=for-the-badge&up_message=Up&url=https%3A%2F%2Fitaliansquirel.com%2F)](https://codestackr.com)
