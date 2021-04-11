@@ -33,7 +33,7 @@ Given my extensive history with debate in high school I am very good at ensuring
 - 🦀 I just launched my first website: [italiansquirel.com](italiansquirel.com)!
 - 🍳 I’m currently learning everything
 - 🌋 I’m looking to collaborate with other content creators
-- 👾 2020 Goals: Contribute more to Open Source projects
+- 👾 2021 Goals: Contribute more to Open Source projects
 - 💻 Fun fact: I love to cook and edit photos
 ---
 
