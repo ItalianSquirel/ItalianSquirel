@@ -34,7 +34,7 @@ Given my extensive history with debate in high school I am very good at ensuring
 - 🍳 I’m currently learning everything
 - 🌋 I’m looking to collaborate with other content creators
 - 👾 2021 Goals: Contribute more to Open Source projects
-- 💻 Fun fact: I love to cook and edit photos
+- 💻 Fun fact: I am Colorblind and have been to Africa (Those are facts are unrelated.)
 ---
 
 
