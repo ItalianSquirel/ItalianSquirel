@@ -42,26 +42,26 @@ Given my extensive history with debate in high school I am very good at ensuring
 
 <a href="https://code.visualstudio.com/">
   <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" (https://code.visualstudio.com/) />
-
-<img align="left" alt="Python" width="26px" src="https://github.com/ItalianSquirel/ItalianSquirel/raw/main/768px-Python-logo-notext.svg.png" />
-
-<img align="left" alt="Rpi" width="26px" src="https://github.com/ItalianSquirel/ItalianSquirel/raw/main/raspberry-pi.png" />
-
-<img align="left" alt="NodeRED" width="26px" src="https://github.com/ItalianSquirel/ItalianSquirel/raw/main/B80E510F-0190-460B-AAB6-4073CD55CD7A.png" />
-
-<img align="left" alt="Fusion360" width="26px" src="https://github.com/ItalianSquirel/ItalianSquirel/raw/main/fusion360-5d76c87271.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
-
-<img align="left" alt="Linux" width="26px" src="https://github.com/ItalianSquirel/ItalianSquirel/raw/main/LINUX.png" />
-
-<img align="left" alt="Windows" width="26px" src="https://github.com/ItalianSquirel/ItalianSquirel/raw/main/windows.png" />
-
-<img align="left" alt="MacOS" width="26px" src="https://github.com/ItalianSquirel/ItalianSquirel/raw/main/macos.png" />
+<a href="https://www.python.org/">
+  <img align="left" alt="Python" width="26px" src="https://github.com/ItalianSquirel/ItalianSquirel/raw/main/768px-Python-logo-notext.svg.png" />
+<a href="https://www.raspberrypi.org/">
+  <img align="left" alt="Rpi" width="26px" src="https://github.com/ItalianSquirel/ItalianSquirel/raw/main/raspberry-pi.png" />
+<a href="https://nodered.org/">
+  <img align="left" alt="NodeRED" width="26px" src="https://github.com/ItalianSquirel/ItalianSquirel/raw/main/B80E510F-0190-460B-AAB6-4073CD55CD7A.png" />
+<a href="https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR">
+  <img align="left" alt="Fusion360" width="26px" src="https://github.com/ItalianSquirel/ItalianSquirel/raw/main/fusion360-5d76c87271.png" />
+<a href="https://en.wikipedia.org/wiki/Windows_Terminal">
+  <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<a href="https://git-scm.com/">
+  <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<a href="https://github.com/">
+  <img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
+<a href="https://www.linux.org/">
+  <img align="left" alt="Linux" width="26px" src="https://github.com/ItalianSquirel/ItalianSquirel/raw/main/LINUX.png" />
+<a href="https://www.microsoft.com/en-us/windows">
+  <img align="left" alt="Windows" width="26px" src="https://github.com/ItalianSquirel/ItalianSquirel/raw/main/windows.png" />
+<a href="https://www.apple.com/macos/">
+  <img align="left" alt="MacOS" width="26px" src="https://github.com/ItalianSquirel/ItalianSquirel/raw/main/macos.png" />
 
 <br />
 <br />
