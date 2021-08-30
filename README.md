@@ -30,7 +30,7 @@ Given my extensive history with debate in high school I am very good at ensuring
 
 <img align="right" alt="pac" width="150px" src="https://64.media.tumblr.com/746f62e3c4f1c00d79a059eb2d334175/tumblr_mz4uhyqNRC1qegdapo1_500.gif" />
 
-- 🦀 I just launched my first website: [italiansquirel.com](italiansquirel.com)!
+- 🦀 I just launched my first website: [https://italiansquirel.com/](italiansquirel.com)!
 - 🍳 I’m currently learning everything
 - 🌋 I’m looking to collaborate with other content creators
 - 👾 2021 Goals: Contribute more to Open Source projects
