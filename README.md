@@ -1,6 +1,6 @@
 ![banner](https://github.com/ItalianSquirel/ItalianSquirel/raw/main/IMG_0021.PNG)
 
-## Howdy there, I'm Petie - aka [italianSquirel](italiansquirel.com)
+## Howdy there, I'm Petie - aka [italianSquirel](https://italiansquirel.com/)
 [![Website](https://img.shields.io/website?down_message=Down&label=italiansquirel.com&style=for-the-badge&up_message=Up&url=https%3A%2F%2Fitaliansquirel.com%2F)](https://italiansquirel.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/italiansquirel?color=%09%231DA1F2&style=for-the-badge)](https://twitter.com/italiansquirel)
 [![Github follow](https://img.shields.io/github/followers/italiansquirel?color=black&label=my%20GitHUb&style=for-the-badge)](https://github.com/ItalianSquirel)
