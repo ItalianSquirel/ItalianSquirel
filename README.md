@@ -55,7 +55,7 @@ Given my extensive history with debate in high school I am very good at ensuring
 <a href="https://git-scm.com/">
   <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <a href="https://github.com/">
-  <img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
+  <img align="left" alt="GitHub" width="26px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" />
 <a href="https://www.linux.org/">
   <img align="left" alt="Linux" width="26px" src="https://github.com/ItalianSquirel/ItalianSquirel/raw/main/LINUX.png" />
 <a href="https://www.microsoft.com/en-us/windows">
