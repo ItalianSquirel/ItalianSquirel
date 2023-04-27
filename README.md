@@ -24,6 +24,7 @@ Given my extensive history with debate in high school I am very good at ensuring
 <br />
 
 
+
 ---
 
 ## I'm a Student, Developer, and a Future Engineer!
@@ -70,7 +71,8 @@ Given my extensive history with debate in high school I am very good at ensuring
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItalianSquirel&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItalianSquirel&show_icons=true&theme=dark)
 
-
+---
+<img align="center" alt="stick" src="https://github.com/ItalianSquirel/ItalianSquirel/blob/main/Contrib.png?raw=true" />
 ---
 
 ### Connect with me:
