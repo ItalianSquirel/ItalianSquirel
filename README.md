@@ -69,20 +69,6 @@ Given my extensive history with debate in high school I am very good at ensuring
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItalianSquirel&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItalianSquirel&show_icons=true&theme=dark)
-
----
-<img align="center" alt="stick" src="https://github.com/ItalianSquirel/ItalianSquirel/blob/main/Contrib.png?raw=true" />
----
-
-### Connect with me:
-
-[<img align=center alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align=center alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align=center alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align=center alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
 [website]: https://italiansquirel.com
 [twitter]: https://twitter.com/italiansquirel
 [youtube]: https://www.youtube.com/channel/UC-NrAPcLX-hGvYqYjyZBEVQ
